@@ -1,1 +1,3 @@
-This is the DrawBoards Github Page. This is where you can report bugs and download previous versions of DrawBoards.
+This is all the files of DrawBoards that have been retired. 
+  These are the versions: 
+  * NIL
