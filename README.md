@@ -1,2 +1,2 @@
-This is all the files of DrawBoards that have been retired. 
+This is all the DrawBoards files which their versions have been retired. 
   These are the versions: 
